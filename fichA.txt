@@ -1,1 +1,2 @@
 Fichero A
+v2 en fich A
