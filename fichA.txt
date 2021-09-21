@@ -1,1 +1,2 @@
 Fichero A
+Version 2
