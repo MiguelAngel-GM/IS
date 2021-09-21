@@ -1,2 +1,2 @@
 Fichero A
-Version 2
+v2 en local
